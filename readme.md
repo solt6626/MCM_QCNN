@@ -1,6 +1,6 @@
 # QCNN with Mid-Circuit Measurements & Qubit Reuse & Feedforward
 
-This github repository contains the public code of my "Towards Quantum Convolutional Netural Networks" scientific students' association report.
+This github repository contains the public code of my "Towards Scalable Quantum Convolutional Netural Networks" scientific students' association report.
 
 ## Quick Start
 
