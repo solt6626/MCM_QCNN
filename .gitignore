@@ -1,0 +1,16 @@
+*.pdf
+*.pt4
+*.pt
+*.model
+data/
+data/**
+.venv
+**/output/
+**/output/**
+**/__pycache__
+tmp/
+~$*.*x
+~$*.*docm
+*autosave.xopp
+ai_*.md
+.github/
