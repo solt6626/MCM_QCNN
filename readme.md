@@ -1,4 +1,4 @@
-# QCNN with Mid-Circuit Measurements & Qubit Reuse & Feedforward
+# QCNN with Mid-Circuit Measurements, Qubit Reuse and Feedforward
 
 This github repository contains the public code of my "Towards Scalable Quantum Convolutional Netural Networks" scientific students' association report.
 
@@ -18,7 +18,7 @@ The notebook demonstrates training a QCNN on a simple stripe classification task
 
 3. (Optional) Run inference on real quantum hardware
 
-   Note that this required and IBM api key saved as an environment variable.
+   Note that this requires an IBM api key saved as an environment variable.
    ```
    Executable_files/inference_on_real_backend.ipynb
    ```
@@ -29,4 +29,4 @@ The notebook demonstrates training a QCNN on a simple stripe classification task
 
 - **`src/`** - Core implementations (circuit building, training callbacks, utilities)
 - **`model_weights/`** - Pretrained model and training plots - for demonstration
-- **`Executable_files/`** - Main notebook
+- **`Executable_files/`** - Main notebooks
