@@ -5,7 +5,6 @@ import numpy as np
 import os
 from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister
 from qiskit.circuit import ParameterVector
-import torch
 import math
 import matplotlib.pyplot as plt
 from qiskit_machine_learning.utils import algorithm_globals

@@ -1,8 +1,10 @@
-# Core Qiskit packages
-qiskit>=1.4.0
-qiskit-aer>=0.17.0
-qiskit-machine-learning>=0.8.0
-qiskit-ibm-runtime>=0.36.0
+# Core Qiskit packages (exact versions)
+qiskit==1.4.1
+qiskit-aer==0.17.0
+qiskit-machine-learning==0.8.2
+qiskit-ibm-runtime==0.37.0
+
+pylatexenc
 
 # Scientific computing
 numpy>=1.26.0,<2.0.0
